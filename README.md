@@ -2,7 +2,7 @@
 A digital coin built on the plygon chain
 I. Safe and Efficient Ethereum Side-Chain Foundation
 
-As a kind of Token deployed on the Ethereum side-chain Polygon (formerly known as Matic Network), OLYMPIC directly inherits the security level of Ethereum, ensuring a stable and reliable trading environment. Its economic model design is particularly prominent, with a transaction fee as low as 0.001 US dollars. Compared with the high transaction cost of Ethereum itself, this advantage can almost be ignored, greatly promoting the trading enthusiasm of users and the economic vitality of the platform.
+As a kind of Token deployed on the Ethereum side-chain Polygon, OLYMPIC directly inherits the security level of Ethereum, ensuring a stable and reliable trading environment. Its economic model design is particularly prominent, with a transaction fee as low as 0.001 US dollars. Compared with the high transaction cost of Ethereum itself, this advantage can almost be ignored, greatly promoting the trading enthusiasm of users and the economic vitality of the platform.
 
 II. Global Participation Potential Under the Olympic Theme
 
